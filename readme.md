@@ -1,5 +1,5 @@
 # Nonlinear Data Analysis Concepts
-## Project for Examination Work
+### Project for Examination Work
 ### Recurrence Analysis of Total Solar Variation in the Holocene
 
 1. Solar irradiance for the last 9300 years was reconstructed in the seminal work by Steinhilber et al, 2009 (doi:10.1029/2009GL040142). Download the data and preprocess the data if necessary.
