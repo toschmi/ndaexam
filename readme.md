@@ -7,8 +7,8 @@
 
 3. Construct a RP of this embedded time series. Check different options of recurrence criteria and discuss your final choice. Interpret the visual appearance of the RP.
 
-4. Compute the $\tau$-recurrence rate as a function of $\tau$ and display the results. Check different filtering options (low-pass, high-pass, band-pass filter) and their impact on the $\tau$-recurrence rate.
+4. Compute the \tau-recurrence rate as a function of \tau and display the results. Check different filtering options (low-pass, high-pass, band-pass filter) and their impact on the \tau-recurrence rate.
 
-5. Make a fourier transform of all the $\tau$-recurrence rate and show the squared absolute values of these transforms as a function of the sampling period (recurrence based powerspectrum).
+5. Make a fourier transform of all the \tau-recurrence rate and show the squared absolute values of these transforms as a function of the sampling period (recurrence based powerspectrum).
 
 6. Make a Fourier Analysis of the original time series and compare and discuss the powerspectrum with the recurrence based powerspectrum.
