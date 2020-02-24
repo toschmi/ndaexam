@@ -1,7 +1,7 @@
 # Nonlinear Data Analysis Concepts
 ### Project for Examination Work - Recurrence Analysis of Climate Variation in the Northern Hemisphere
 
-**Due date: 17 April 2020**. It would be good to submit a week before in order to have time for revisions.
+Due date: **17 April 2020**. It would be good to submit a week before in order to have time for revisions.
 
 1. A frequently used climate proxy for the northern-hemisphere climate is NGRIP data ([doi:10.1038/nature02805](http://doi.org/10.1038/nature02805)]). Download the data and preprocess the data if necessary.
 
