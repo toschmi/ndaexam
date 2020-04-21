@@ -3,7 +3,7 @@
 
 Google Documents: [Notes](https://docs.google.com/document/d/1GeP2keaLKwMI1lgFaSfxPbPcvDsPq4meyfpUxvn72Mw/edit?usp=sharing), [Report](https://docs.google.com/document/d/1m6eyZJPJACYtvp7SruPG9ZwqOg3mxBq4_M77_Bb2XRk/edit?usp=sharing).
 
-Due date: **17 April 2020**. It would be good to submit a week before in order to have time for revisions.
+Due date: **10 May 2020**. It would be good to submit a week before in order to have time for revisions.
 
 1. A frequently used climate proxy for the northern-hemisphere climate is NGRIP data ([doi:10.1038/nature02805](http://doi.org/10.1038/nature02805)). Download the data and preprocess the data if necessary.
 
