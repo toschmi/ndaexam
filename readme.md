@@ -1,7 +1,9 @@
 # Nonlinear Data Analysis Concepts
 ### Project for Examination Work - Recurrence Analysis of Climate Variation in the Northern Hemisphere
 
-[Google Document](https://docs.google.com/document/d/1GeP2keaLKwMI1lgFaSfxPbPcvDsPq4meyfpUxvn72Mw/edit?usp=sharing) for comments on literature etc.
+Google Documents:
+[Notes](https://docs.google.com/document/d/1GeP2keaLKwMI1lgFaSfxPbPcvDsPq4meyfpUxvn72Mw/edit?usp=sharing)
+[Report](https://docs.google.com/document/d/1m6eyZJPJACYtvp7SruPG9ZwqOg3mxBq4_M77_Bb2XRk/edit?usp=sharing).
 
 Due date: **17 April 2020**. It would be good to submit a week before in order to have time for revisions.
 
